@@ -40,12 +40,12 @@ Welcome to the Food Safety Portal GitHub repository! This project is a comprehen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/food-safety-portal.git
+    git clone https://github.com/prabhath555/Food_Safety_Portal.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd food-safety-portal
+    cd Food_Safety_Portal
     ```
 
 3. Install dependencies:
